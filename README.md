@@ -1,2 +1,2 @@
 # Flag-packages
-This seems to be an easy display on how to use the flag package in Go.
+This seems to be an easy way to show how to use the flag package in Go.
